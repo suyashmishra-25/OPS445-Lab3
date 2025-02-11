@@ -1,1 +1,1 @@
-This it the Lab 3 repor for OPS445 course
+This it the Lab 3 repository for OPS445 course
