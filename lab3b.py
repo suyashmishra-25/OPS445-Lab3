@@ -2,7 +2,7 @@
 
 '''The purpose of this script is to create a Python function that can return the free disk space on a Linux system's root directory'''
 
-# Author ID: [seneca_id]
+# Author ID: smishra27 / 137285227
 
 def sum_numbers(number1, number2):
 
